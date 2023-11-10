@@ -121,3 +121,11 @@ a:hover {
   flex-wrap: wrap;
   gap: 0.5rem;
 }
+
+#tags-container a {
+  background-color: #ddd;
+  padding: 0.5rem 0.7rem;
+  border-radius: 0.3rem;
+}
+
+/* Rodapé */
